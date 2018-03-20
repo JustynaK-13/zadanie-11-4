@@ -1,0 +1,12 @@
+body {
+  margin: 0 auto;
+  text-align: center;
+}
+h1 {
+  background: lightgrey;
+  margin : 30px 50px; 
+}
+.container {
+  background: lightgrey;
+  margin : 30px 50px; 
+}
